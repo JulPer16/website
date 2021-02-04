@@ -1,1 +1,3 @@
-# website
+# Website project
+
+Collaborative website development project.
